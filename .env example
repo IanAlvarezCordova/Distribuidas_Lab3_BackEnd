@@ -1,0 +1,7 @@
+#Replace with your actual database credentials
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=
+DB_NAME=lab_orm
+DB_PORT=3306
+MONGO_URI=mongodb://localhost:27017/lab_logs
